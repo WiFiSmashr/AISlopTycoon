@@ -4,17 +4,42 @@
     "$className": "DataModel",
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
       "$path": "src/shared"
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
       "$path": "src/server"
     },
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
         "$path": "src/client"
+      },
+      "$properties": {
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterUseJumpPower": false,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "UseImprovedCharacterEvents": {
+          "Enum": 0
+        }
       }
     }
   }
